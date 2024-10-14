@@ -57,6 +57,7 @@ struct BreweryDetailView: View {
                 }
             }
             
+            
             if let tel = brewery.phone {
                 HStack {
                     Image(systemName: "phone.fill")
