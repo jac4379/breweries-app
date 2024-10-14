@@ -17,12 +17,10 @@ struct ContentView: View {
                     VStack(alignment: .leading) {
                         Text(brewery.name)
                             .font(.headline)
-//                        Text(brewery.breweryType)
-//                            .font(.subheadline)
                     }
                 }
             }
-            .navigationTitle("Breweries")
+            .navigationTitle("🍻 Breweries")
             .onAppear {
                 breweryService.fetchBreweries()
             }
