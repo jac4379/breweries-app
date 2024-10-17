@@ -4,6 +4,7 @@
 //
 //  Created by Jacqueline on 10/9/24.
 //
+// Comments within the file at relevant parts.
 
 import SwiftUI
 import MapKit

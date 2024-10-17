@@ -4,6 +4,11 @@
 //
 //  Created by Jacqueline on 10/9/24.
 //
+/*
+ I wanted to make the list view more interesting since this kind of list
+ has been used so often in assignments, but I didn't really know what to
+ do to change it up, so I left it plain.
+ */
 
 import SwiftUI
 
